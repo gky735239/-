@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/vue_app" libraries="{workspace/vue_app/node_modules}" />
+    <file url="file://$PROJECT_DIR$/vue_life" libraries="{workspace/vue_life/node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>
